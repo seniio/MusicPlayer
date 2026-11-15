@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="muse_amber">#F59E0B</color>
+    <color name="muse_black">#121212</color>
+    <color name="muse_oled_black">#000000</color>
+    <string name="app_name">ILVANE</string>
+    <string name="playback_channel_description">Active audio playback notification for ILVANE</string>
+    <string name="playback_channel_name">ILVANE Audio Playback</string>
+</resources>

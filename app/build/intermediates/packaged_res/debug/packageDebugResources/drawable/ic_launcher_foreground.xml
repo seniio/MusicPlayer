@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="22"
+        android:translateY="22">
+        <!-- Fork Left Prong -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:pathData="M20,14 V32 C20,38.6 25.4,44 32,44 C38.6,44 44,38.6 44,32 V14" />
+        <!-- Stem -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            android:pathData="M32,44 V54" />
+        <!-- Acoustic Brass Resonant Core Dot -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M32,24 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+        <!-- Upper Resonant Wave Arc -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:pathData="M26,24 C26,20 38,20 38,24" />
+    </group>
+</vector>

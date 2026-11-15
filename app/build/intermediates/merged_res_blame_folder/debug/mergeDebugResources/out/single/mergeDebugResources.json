@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.muse.app-debug-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.muse.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.muse.app-debug-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.muse.app-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.muse.app-debug-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.muse.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.muse.app-debug-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.muse.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\seana\\.gradle\\daemon\\8.7\\com.muse.app-debug-54:\\raw_test_audio.wav.flat",
+        "source": "C:\\Users\\seana\\.gradle\\daemon\\8.7\\com.muse.app-main-56:\\raw\\test_audio.wav"
+    }
+]
