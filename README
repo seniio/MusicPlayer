@@ -6,6 +6,7 @@ dirancang untuk kebutuhan pribadi. Status: prototype.
 ## Fitur yang sudah berjalan
 - Daftar Top 30 Global dan Top 30 Indonesia (sumber: YouTube)
 - Pemutaran lagu dengan lirik yang tersinkronisasi (sumber lirik: LRCLIB API)
+- Antrian lagu berikutnya
 - Search by Name 
 
 ## Teknologi
